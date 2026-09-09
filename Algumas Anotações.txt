@@ -14,3 +14,18 @@ Evitar quebra de imagem
 background-size: cover;
 
 cobre 100% da viewport (não exibe a imagem inteira)
+
+travar fundo para conteúdos muito grandes:
+
+background-attachment: ;
+
+valores:
+
+fixed (conteúdo pode rolar mas a imagem de fundo fica fixa)
+
+shorthand: background;
+color > image > position > repeat > [size] > attachment
+
+background: black url(imagens/wallpaper002.jpg) center center / cover no-repeat fixed;
+
+não esquecer da barra entre position e size.
