@@ -29,3 +29,7 @@ color > image > position > repeat > [size] > attachment
 background: black url(imagens/wallpaper002.jpg) center center / cover no-repeat fixed;
 
 não esquecer da barra entre position e size.
+----------------------------------------------------------
+centralização vertical de caixas:
+
+transform: (translate);
