@@ -1,0 +1,16 @@
+Cap19
+Ex022
+
+comando: background-size: ;
+
+ele permite os valores:
+
+px, %
+contain (exibe toda a imagem sem quebrar)
+cover
+
+Evitar quebra de imagem
+
+background-size: cover;
+
+cobre 100% da viewport (não exibe a imagem inteira)
