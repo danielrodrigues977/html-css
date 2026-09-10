@@ -48,3 +48,26 @@ tabelas:
 ___
 
 border-collapse: collapse;
+
+alinhar horizontalmente:
+
+text-align: valor;
+
+valores:
+
+left -esquerda
+center -meio
+right -direita
+
+___________
+
+alinhar verticalmente:
+
+vertical-align: valor;
+
+valores:
+
+Top -Cima
+Middle -Meio
+Bottom -Baixo
+
