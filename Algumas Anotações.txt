@@ -100,10 +100,10 @@ EFEITO ZEBRADO:
 
 pseudoclasse;
 
-nth: child(valor acompanhado de n);
+nth-child(valor acompanhado de n);
 
 valores: números
 
 ex:
-nth: child(2n);
+nth-child(2n);
 
