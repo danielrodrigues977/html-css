@@ -96,3 +96,14 @@ valores:
 col -mesma coluna
 row -mesma linha
 
+EFEITO ZEBRADO:
+
+pseudoclasse;
+
+nth: child(valor acompanhado de n);
+
+valores: números
+
+ex:
+nth: child(2n);
+
