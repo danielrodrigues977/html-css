@@ -71,3 +71,16 @@ Top -Cima
 Middle -Meio
 Bottom -Baixo
 
+____________
+
+
+  ANATOMIA PARA TABELAS GRANDES
+  TABLE
+      THEAD
+          TR, TD, TH
+      TBODY
+          TR, TD, TH
+      TFOOT
+          TR, TD, TH
+
+
