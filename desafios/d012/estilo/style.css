@@ -1,0 +1,95 @@
+@font-face {
+  font-family: 'titulo';
+  src: url('../fontes/PassionOne-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'textos';
+  src: url('../fontes/Sriracha-Regular.ttf') format('truetype');
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+html {
+    font-size: 150%;
+}
+
+body {
+    background-color: darkgray;
+    min-height: 100vh;
+}
+
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 50px;
+    font-family: 'titulo', sans-serif;
+    
+}
+
+header > h1 {
+    font-size: 3em;
+    font-variant: small-caps;
+    
+}
+
+section.normal {
+    background-color: white;
+    box-shadow: 6px 6px 13px 5px black
+}
+
+
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+header p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section {
+    padding-left: 2.5em;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    line-height: 2em;
+    
+}
+
+section.imagem > p {
+    background-color: rgba(26, 26, 26, 0.644);
+    color: white;
+    width: 220px;
+    padding: 2em;
+}
+
+
+#img1 {
+    background-image: url(../imagens/background001.jpg);
+    background-position: right center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#img2 {
+    background-image: url(../imagens/background002.jpg);
+    background-position: right center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+p {
+    font-family: 'textos', sans-serif;
+}
+
+footer {
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 15px;
+}

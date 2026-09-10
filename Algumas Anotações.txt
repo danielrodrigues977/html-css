@@ -13,7 +13,7 @@ Evitar quebra de imagem
 
 background-size: cover;
 
-cobre 100% da viewport (não exibe a imagem inteira)
+cover 100% da viewport (não exibe a imagem inteira)
 
 travar fundo para conteúdos muito grandes:
 
