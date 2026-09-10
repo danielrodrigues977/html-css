@@ -45,3 +45,6 @@ tabelas:
     table row - linha de tabela - <tr>
        table header - cabeçalho de tabela
        table data - dado de tabela - <td>
+___
+
+border-collapse: collapse;
