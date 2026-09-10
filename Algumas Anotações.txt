@@ -34,6 +34,14 @@ centralização vertical de caixas:
 
 transform: (translate);
 ___________________________
+cap.21
+
 tabelas:
 
 -não usar tabelas para fazer layouts de sites
+
+-hierarquia de tabela simples;
+<table> = Tabela
+    table row - linha de tabela - <tr>
+       table header - cabeçalho de tabela
+       table data - dado de tabela - <td>
