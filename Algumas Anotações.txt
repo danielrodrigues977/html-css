@@ -76,6 +76,8 @@ ____________
 
   ANATOMIA PARA TABELAS GRANDES
   TABLE
+      CAPTION
+          -LEGENDA
       THEAD
           TR, TD, TH
       TBODY
