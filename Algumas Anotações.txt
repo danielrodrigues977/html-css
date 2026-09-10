@@ -85,4 +85,14 @@ ____________
       TFOOT
           TR, TD, TH
 
+SCOPE:
+
+... scope="valor"
+
+usar em títulos (th) para dar significado
+
+valores:
+
+col -mesma coluna
+row -mesma linha
 
