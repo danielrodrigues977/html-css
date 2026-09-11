@@ -116,3 +116,25 @@ Mesclagem:
 Colunas: colspan
 Linhas: rowspan
 (HTML)
+
+_____________________________________________
+
+Agrupando colunas com <colgroup>
+
+estrutura:
+
+<colgroup>
+	<col>
+
+ex:
+<colgroup>
+	<col>
+	<col>
+	<col>
+</colgroup>
+
+CORRIGIR ROLAGEM:
+colocar a tabela em uma <div>
+style;
+overflow-x
+overlow-y
