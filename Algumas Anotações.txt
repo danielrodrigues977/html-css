@@ -138,3 +138,20 @@ colocar a tabela em uma <div>
 style;
 overflow-x
 overlow-y
+
+__________________________________________
+
+cap.22
+
+iframe:
+
+tipo in-line
+tamanho padrão: 300x150px
+CSS é soberana
+
+parâmetros:
+
+frameborder
+height
+width
+scolling
