@@ -33,3 +33,86 @@ não esquecer da barra entre position e size.
 centralização vertical de caixas:
 
 transform: (translate);
+___________________________
+cap.21
+
+tabelas:
+
+-não usar tabelas para fazer layouts de sites
+
+-hierarquia de tabela simples;
+<table> = Tabela
+    table row - linha de tabela - <tr>
+       table header - cabeçalho de tabela
+       table data - dado de tabela - <td>
+___
+
+border-collapse: collapse;
+
+alinhar horizontalmente:
+
+text-align: valor;
+
+valores:
+
+left -esquerda
+center -meio
+right -direita
+
+___________
+
+alinhar verticalmente:
+
+vertical-align: valor;
+
+valores:
+
+Top -Cima
+Middle -Meio
+Bottom -Baixo
+
+____________
+
+
+  ANATOMIA PARA TABELAS GRANDES
+  TABLE
+      CAPTION
+          -LEGENDA
+      THEAD
+          TR, TD, TH
+      TBODY
+          TR, TD, TH
+      TFOOT
+          TR, TD, TH
+
+SCOPE:
+
+... scope="valor"
+
+usar em títulos (th) para dar significado
+
+valores:
+
+col -mesma coluna
+row -mesma linha
+
+EFEITO ZEBRADO:
+
+pseudoclasse;
+
+:nth-child(valor acompanhado de n)
+
+valores: números
+
+ex:
+:nth-child(2n)
+
+CABEÇALHO FIXO:
+
+cabeçalho fixo usando CSS, configurando a tabela com position: relative e aplicando o position: sticky nos elementos <th> do cabeçalho. Ele explica como ajustar o top e o background-color para garantir que o cabeçalho permaneça legível e funcional, destacando que o recurso funciona melhor no Google Chrome e em navegadores baseados em Chromium, mas pode apresentar limitações em outros navegadores como Safari.
+
+Mesclagem:
+
+Colunas: colspan
+Linhas: rowspan
+(HTML)
