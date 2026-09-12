@@ -155,3 +155,11 @@ frameborder
 height
 width
 scolling
+
+carregar página local dentro de um iframe:
+adicionar um name no iframe
+target="nome do name"
+
+----------------------------------
+borda fazer parte da imagem:
+box-sizing: border-box;
