@@ -168,6 +168,14 @@ _____________________________
 formulários
 action-ação
 label-ligar algo ao input-usar id
+para senhas usar inputs do tipo password
+limpar dador: input tipo reset
+não deixar enviar formulários com campos vazios: required (dentro do input)
+mínimo a máximo de caracteres nos campos:
+minlenght=""
+maxlenght=""
+placeholder
+autocomplete
 ___
 
 GET: para dados públicos, buscas e URLs compartilháveis.
