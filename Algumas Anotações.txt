@@ -163,3 +163,13 @@ target="nome do name"
 ----------------------------------
 borda fazer parte da imagem:
 box-sizing: border-box;
+
+_____________________________
+formulários
+action-ação
+label-ligar algo ao input-usar id
+___
+
+GET: para dados públicos, buscas e URLs compartilháveis.
+
+POST: para dados sensíveis, envios de arquivos ou formulários extensos.
