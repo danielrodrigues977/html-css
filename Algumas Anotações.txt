@@ -180,4 +180,6 @@ ___
 
 GET: para dados públicos, buscas e URLs compartilháveis.
 
-POST: para dados sensíveis, envios de arquivos ou formulários extensos.
+POST: para dados sensíveis, envios de arquivos ou formulários extensos
+
+organizar com <fieldset> e <legend>
