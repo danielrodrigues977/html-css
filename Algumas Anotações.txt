@@ -183,3 +183,8 @@ GET: para dados públicos, buscas e URLs compartilháveis.
 POST: para dados sensíveis, envios de arquivos ou formulários extensos
 
 organizar com <fieldset> e <legend>
+
+input do tipo <checkbox> para caixinhas de marcar
+
+radio: so pode escolher um
+checkbox: um ou mais

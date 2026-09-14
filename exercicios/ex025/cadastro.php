@@ -1,1 +1,1 @@
-cadastro concluido!
+Enviado com sucesso!
