@@ -202,3 +202,14 @@ ____________
 um pouco de js+html
 
 tag <output> para mostrar o resultado de somas ou outras operações sem que o usuário precise digitar manualmente. Esse recurso permite visualizar resultados instantaneamente na tela
+
+__________________
+
+Media Queries
+
+para telas diferentes
+
+para telas: screen
+para impressoras: print
+
+tirar algo: display: none;
