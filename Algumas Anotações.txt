@@ -198,3 +198,7 @@ ________
 select e option – Usados para criar listas suspensas, ideais para selecionar itens de um conjunto pré-definido, como os estados do Brasil. O professor demonstra como organizar opções em grupos (optgroup), configurar um valor inicial selecionado e facilitar a escolha do usuário, proporcionando maior controle e melhor experiência na interface.
 datalist – Permite criar caixas de texto com sugestões, onde o usuário pode digitar livremente ou escolher entre opções previamente definidas, como profissões. Guanabara mostra como associar a caixa de texto ao datalist usando o atributo list, permitindo flexibilidade e praticidade no preenchimento de formulários.
 textarea – Um campo de texto multilinha, ideal para mensagens ou comentários. A aula detalha como configurar quantidade de colunas e linhas, garantir que o conteúdo seja enviado corretamente usando o método POST e tratar observações sobre limitações de tamanho de dados, oferecendo instruções claras para evitar problemas comuns.
+____________
+um pouco de js+html
+
+tag <output> para mostrar o resultado de somas ou outras operações sem que o usuário precise digitar manualmente. Esse recurso permite visualizar resultados instantaneamente na tela
