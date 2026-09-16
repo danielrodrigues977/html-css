@@ -188,3 +188,7 @@ input do tipo <checkbox> para caixinhas de marcar
 
 radio: so pode escolher um
 checkbox: um ou mais
+
+input do tipo color: escolher uma cor
+<range>
+<file> escolher arquivo - usar post
