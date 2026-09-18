@@ -209,7 +209,16 @@ Media Queries
 
 para telas diferentes
 
+tag media
+
+
 para telas: screen
 para impressoras: print
 
 tirar algo: display: none;
+
+Media Queries é a mesma coisa de media type e media features
+
+media features são representadas isoladamente entre parênteses
+
+ex: media="screen and (orientation: portrait)"
