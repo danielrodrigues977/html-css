@@ -1,5 +1,71 @@
 /*todas as demais midias*/
 
+@media screen and (min-width: 768px) and (max-width: 992px) { /*tablets*/
+    body {
+        background-image: url(../imagens/back-tablet.jpg);
+    }
+
+    img#tablet {display: block;}
+    img#phone {display: none;}
+}
+
+
 @media print {
+    body {
+        background-image: url(../imagens/back-print.jpg); /*desnecessário*/
+        font-family: 'Courier New', Courier, monospace;
+        
+        }
+
+
+    main {
+        border: 2px solid black;
+    }
+
+    main::after {
+        content: 'Essa impressão foi feita por www.seusite.com.br';
+        font-size: 10pt;
+        color: rgba(0, 0, 0, 0.418);
+        font-weight: bold;
+    }
+
+
+    main, h1 {
+        text-shadow: none;
+        color: black;
+    }
+
+
+    img#phone {display: none;}
+        img#tablet {display: none;}
+        img#pc {display: none;}
+        img#tv {display: none;}
+        img#print {display: block;}
     
+}
+
+
+
+
+@media screen and (min-width: 992px) and (max-width: 1200px) { /*desktops*/
+    body {
+        background-image: url(../imagens/back-pc.jpg);
+        img#phone {display: none;}
+        img#tablet {display: none;}
+        img#pc {display: block;}
+    }
+}
+
+@media screen and (min-width: 1200px) { /*grandes telas*/
+    body {
+        background-image: url(../imagens/back-tv.jpg);
+    }
+    img#phone {display: none;}
+    img#tablet {display: none;}
+    img#pc {display: none;}
+    img#tv {display: block;}
+
+    main {
+        
+    }
 }
