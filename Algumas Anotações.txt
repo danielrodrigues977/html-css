@@ -230,4 +230,9 @@ cálculos com css:
 calc(valores)
 
 ___________________
-dica: sempre colocar trasnform e animações para o final do codigo
+dica: sempre colocar trasnform e animações para o final do código
+___________________________________________
+
+FLEXBOX:
+ELEMENTO PAI: display: flex;
+ELEMENTO FILHO: flex: auto;
