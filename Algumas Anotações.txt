@@ -222,3 +222,12 @@ Media Queries é a mesma coisa de media type e media features
 media features são representadas isoladamente entre parênteses
 
 ex: media="screen and (orientation: portrait)"
+
+_______________________
+
+cálculos com css:
+
+calc(valores)
+
+___________________
+dica: sempre colocar trasnform e animações para o final do codigo
