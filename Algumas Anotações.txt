@@ -237,5 +237,12 @@ FLEXBOX:
 ELEMENTO PAI: display: flex;
 ELEMENTO FILHO: flex: auto;
 
+
+pra filhos;
+
 order:
 ordena os items
+padrão: 0
+
+align-self
+valores: auto, flex-start, flex-end, center, stretch
